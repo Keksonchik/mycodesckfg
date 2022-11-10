@@ -1,26 +1,2 @@
-{
-	"latest": 35,
-	"version": "1.9 Release",
-	"updateurl":"https://raw.githubusercontent.com/TheMrThor/AScript/main/13_GG.luac",
-	"critical": false,
-	"changes": [
-		"Путь сохранения выданных форм и наказаний изменен из за некоторых проблем. Теперь файлы хранится в папке ..moonloader/13_GG",
-		"Исправлен ТП по метке. Теперь он телепортирует вас только когда вы ставите метку",
-		"Добавлена функция авто-ввода PIN-кода от банка",
-		"Исправлены баг с командой /spcarall",
-		"Добавлена админ форма на команду /setfuel [carid] [fuel (0 - 150)]",
-		"Теперь если ввести /fillcar сидя в транспорте, вы заправите его полностью (150 литров)"
-	],
-	"servers": [
-		{ "address": "62.122.214.46:7777", "id": 1 }
-	],
-	"files": {
-		"gps": 4,
-		"gps_vc": 2,
-		"questions": 2,
-		"server_cmd": 1,
-		"admin_cmd": 2,
-		"vehicles": 4
-	},
-	"api_url": "https://13-GG.com/"
-}
+New_Balance
+Maxim_Gavrilenko
